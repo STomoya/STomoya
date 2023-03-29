@@ -19,7 +19,6 @@ jobs:
           user: STomoya
           template: classic
           base: header, activity, community, repositories, metadata
-          config_display: large
           config_timezone: Asia/Tokyo
           plugin_achievements: yes
           plugin_achievements_display: compact
