@@ -26,7 +26,7 @@ Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍
 
 ---
 
-## 🐱 GitHub Stats
+<!-- ## 🐱 GitHub Stats
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=STomoya&show_icons=true&theme=cobalt">
 
@@ -45,4 +45,6 @@ Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STomoya&repo=storch&theme=cobalt">
 </a>
 
----
+--- -->
+
+![Metrics](./github-metrics.svg)
