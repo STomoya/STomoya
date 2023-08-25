@@ -5,6 +5,8 @@
 
 Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍🎓 from Japan. Currently intrested in Machine Learning (Deep Learning) 🤖, Programming 🖥️ and Illustrated Images ✍️.
 
+<a href="https://wakatime.com/@8edde502-4bff-415e-a238-c7b1e6d531c3"><img src="https://wakatime.com/badge/user/8edde502-4bff-415e-a238-c7b1e6d531c3.svg?style=flat-square" alt="Total time coded since Aug 16 2023" /></a>
+
 ---
 
 ## 🐱 I can
@@ -31,15 +33,18 @@ Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍
 ## 🐱 GitHub Stats
 
 <div align="center">
-<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api?username=STomoya&show_icons=true&card_width=300&theme=cobalt"></a>
-<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=STomoya&layout=compact&card_width=300&theme=cobalt"></a>
+<a href="#"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=STomoya&show_icons=true&theme=cobalt"></a>
+<a href="#"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=STomoya&hide=jupyter%20notebook&layout=compact&theme=cobalt&langs_count=8&card_width=350"></a>
+</div>
+<div align="center">
+<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=STomoya&layout=compact&theme=cobalt&langs_count=10"></a>
 </div>
 
 <!-- ---
 
 ## 🐱 Repositories
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=STomoya&hide=jupyter%20notebook&layout=compact&theme=cobalt">
+
 
 </br>
 
