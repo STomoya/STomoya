@@ -1,5 +1,7 @@
 
-<img align="center" height="125" src="assets/hello-inugami.png">
+<div align="center">
+<img height="150" src="assets/hello-inugami.png">
+</div>
 
 Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍🎓 from Japan. Currently intrested in Machine Learning (Deep Learning) 🤖, Programming 🖥️ and Illustrated Images ✍️.
 
@@ -26,11 +28,14 @@ Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍
 
 ---
 
-<!-- ## 🐱 GitHub Stats
+## 🐱 GitHub Stats
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=STomoya&show_icons=true&theme=cobalt">
+<div align="center">
+<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api?username=STomoya&show_icons=true&card_width=300&theme=cobalt"></a>
+<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=STomoya&layout=compact&card_width=300&theme=cobalt"></a>
+</div>
 
----
+<!-- ---
 
 ## 🐱 Repositories
 
@@ -44,7 +49,10 @@ Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍
 <a href="https://github.com/STomoya/storch/" target="_blank">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=STomoya&repo=storch&theme=cobalt">
 </a>
+-->
 
---- -->
+---
 
-![Metrics](./github-metrics.svg)
+## 🐱 Metrics
+
+<div align="center"><img src="github-metrics.svg"></div>
