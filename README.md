@@ -37,11 +37,11 @@ Hi, I'm [Tomoya Sawada (STomoya)](https://stomoya.github.io/), a student 👨‍
 ## 🐱 GitHub Stats
 
 <div align="center">
-<a href="#"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api?username=STomoya&show_icons=true&theme=cobalt"></a>
+<a href="#"><img align="center" height=180 src="https://github-stats-extended.vercel.app/api?username=STomoya&show_icons=true&theme=cobalt"></a>
 <!--
-<a href="#"><img align="center" height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=STomoya&hide=jupyter%20notebook&layout=compact&theme=cobalt&langs_count=8&card_width=350"></a>
+<a href="#"><img align="center" height=180 src="https://github-stats-extended.vercel.app/api/top-langs/?username=STomoya&hide=jupyter%20notebook&layout=compact&theme=cobalt&langs_count=8&card_width=350"></a>
 -->
-<a href="#"><img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=STomoya&layout=compact&theme=cobalt&langs_count=10"></a>
+<a href="#"><img align="top" src="https://github-stats-extended.vercel.app/api/wakatime?username=STomoya&layout=compact&theme=cobalt&langs_count=10"></a>
 </div>
 
 <!-- ---
